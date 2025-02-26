@@ -3,8 +3,8 @@ using namespace std;
 
 int main (){
 
-    int nums;
-   
-    cout <<nums;
+    int nums= 10;
+cout << "ENter number";
+
     return 0;
 }
